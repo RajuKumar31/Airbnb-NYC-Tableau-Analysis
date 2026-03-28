@@ -7,7 +7,7 @@ It focuses on pricing trends, room types, neighborhood distribution, and custome
 
 ## 🔗 Live Dashboard
 
-👉 ttps://public.tableau.com/app/profile/raju.kumar.s1115/viz/AirbnbNYCMarketAnalysisDashboard/AirbnbNYCPriceListingAnalysis
+👉 https://public.tableau.com/app/profile/raju.kumar.s1115/viz/AirbnbNYCMarketAnalysisDashboard/AirbnbNYCPriceListingAnalysis
 
 ## 📌 Key Insights
 
